@@ -1,0 +1,10 @@
+# Ignorar configuraciones de Visual Studio Code
+.vscode/
+
+# Ignorar archivos temporales
+*.tmp
+*.log
+
+# Ignorar archivos del sistema
+Thumbs.db
+.DS_Store
