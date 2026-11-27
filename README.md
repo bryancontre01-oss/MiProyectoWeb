@@ -32,7 +32,7 @@
 **Mejoras implementadas**
 
 * **Menú de navegación: incorpora enlaces internos para desplazarse por las diferentes secciones de la página.**
-* **Formulario de contacto: incluye campos para introducir el nombre, correo electrónico y mensaje del usuario.**
+* **Tabla de horario: muestra un horario de estudio organizado en una tabla HTML.**
 
 
 
